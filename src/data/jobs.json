@@ -1,0 +1,182 @@
+[
+{
+"id": 1,
+"title": "Frontend Developer",
+"company": "Infosys",
+"location": "Bangalore",
+"salary": 800000,
+"datePosted": "2025-06-01",
+"description": "Build modern and responsive user interfaces using React.",
+"skills": ["React", "JavaScript", "Tailwind"]
+},
+{
+"id": 2,
+"title": "Backend Engineer",
+"company": "TCS",
+"location": "Pune",
+"salary": 1000000,
+"datePosted": "2025-05-30",
+"description": "Develop scalable backend services and REST APIs.",
+"skills": ["Node.js", "Express", "MongoDB"]
+},
+{
+"id": 3,
+"title": "Full Stack Developer",
+"company": "Wipro",
+"location": "Hyderabad",
+"salary": 1200000,
+"datePosted": "2025-05-28",
+"description": "Work across frontend and backend technologies.",
+"skills": ["React", "Node.js", "PostgreSQL"]
+},
+{
+"id": 4,
+"title": "DevOps Engineer",
+"company": "Accenture",
+"location": "Chennai",
+"salary": 1400000,
+"datePosted": "2025-05-27",
+"description": "Manage cloud infrastructure and CI/CD pipelines.",
+"skills": ["Docker", "Kubernetes", "AWS"]
+},
+{
+"id": 5,
+"title": "UI/UX Designer",
+"company": "Zoho",
+"location": "Chennai",
+"salary": 700000,
+"datePosted": "2025-05-26",
+"description": "Design intuitive and user-friendly interfaces.",
+"skills": ["Figma", "Adobe XD", "Wireframing"]
+},
+{
+"id": 6,
+"title": "Data Scientist",
+"company": "Flipkart",
+"location": "Bangalore",
+"salary": 1800000,
+"datePosted": "2025-05-25",
+"description": "Analyze data and build machine learning models.",
+"skills": ["Python", "Pandas", "TensorFlow"]
+},
+{
+"id": 7,
+"title": "Mobile Developer",
+"company": "Paytm",
+"location": "Noida",
+"salary": 1100000,
+"datePosted": "2025-05-24",
+"description": "Develop Android and iOS applications.",
+"skills": ["React Native", "Android", "iOS"]
+},
+{
+"id": 8,
+"title": "QA Engineer",
+"company": "Tech Mahindra",
+"location": "Pune",
+"salary": 850000,
+"datePosted": "2025-05-23",
+"description": "Ensure software quality through testing.",
+"skills": ["Selenium", "Jest", "Cypress"]
+},
+{
+"id": 9,
+"title": "Product Manager",
+"company": "Swiggy",
+"location": "Bangalore",
+"salary": 2000000,
+"datePosted": "2025-05-22",
+"description": "Lead product strategy and roadmap execution.",
+"skills": ["Product Strategy", "Agile", "Analytics"]
+},
+{
+"id": 10,
+"title": "Cloud Architect",
+"company": "HCLTech",
+"location": "Noida",
+"salary": 2200000,
+"datePosted": "2025-05-21",
+"description": "Design cloud-native enterprise solutions.",
+"skills": ["AWS", "Azure", "Terraform"]
+},
+{
+"id": 11,
+"title": "React Developer",
+"company": "Razorpay",
+"location": "Bangalore",
+"salary": 1300000,
+"datePosted": "2025-05-20",
+"description": "Build reusable React components and features.",
+"skills": ["React", "Redux", "TypeScript"]
+},
+{
+"id": 12,
+"title": "Node.js Developer",
+"company": "Freshworks",
+"location": "Chennai",
+"salary": 1250000,
+"datePosted": "2025-05-19",
+"description": "Create high-performance backend applications.",
+"skills": ["Node.js", "Express", "MySQL"]
+},
+{
+"id": 13,
+"title": "Security Engineer",
+"company": "Cognizant",
+"location": "Hyderabad",
+"salary": 1700000,
+"datePosted": "2025-05-18",
+"description": "Protect systems against cyber threats.",
+"skills": ["Cyber Security", "SIEM", "Networking"]
+},
+{
+"id": 14,
+"title": "Machine Learning Engineer",
+"company": "Google India",
+"location": "Bangalore",
+"salary": 2500000,
+"datePosted": "2025-05-17",
+"description": "Deploy machine learning models at scale.",
+"skills": ["Python", "PyTorch", "CUDA"]
+},
+{
+"id": 15,
+"title": "Technical Writer",
+"company": "Zoho",
+"location": "Chennai",
+"salary": 650000,
+"datePosted": "2025-05-16",
+"description": "Write technical documentation and guides.",
+"skills": ["Documentation", "Markdown", "API Docs"]
+},
+{
+"id": 16,
+"title": "Site Reliability Engineer",
+"company": "Amazon",
+"location": "Hyderabad",
+"salary": 1900000,
+"datePosted": "2025-05-15",
+"description": "Maintain highly available production systems.",
+"skills": ["Linux", "Monitoring", "AWS"]
+},
+{
+"id": 17,
+"title": "Game Developer",
+"company": "Nazara Technologies",
+"location": "Mumbai",
+"salary": 1000000,
+"datePosted": "2025-05-14",
+"description": "Build engaging gaming experiences.",
+"skills": ["Unity", "C#", "Game Design"]
+},
+{
+"id": 18,
+"title": "Database Administrator",
+"company": "IBM India",
+"location": "Bangalore",
+"salary": 1450000,
+"datePosted": "2025-05-13",
+"description": "Manage and optimize database systems.",
+"skills": ["PostgreSQL", "MongoDB", "SQL"]
+}
+]
